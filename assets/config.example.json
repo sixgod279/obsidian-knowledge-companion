@@ -1,0 +1,10 @@
+{
+  "vault": "~/ObsidianKnowledge",
+  "timezone": "Asia/Shanghai",
+  "auto_archive": true,
+  "archive_time": "17:30",
+  "show_sources": false,
+  "auto_retrieve": true,
+  "auto_capture": true,
+  "capture_preferences": true
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian 知识库助手"
+  short_description: "检索、记录和归档三层 Obsidian 知识库，支持独立配置与私有仓库同步"
+  default_prompt: "使用 $obsidian-knowledge-companion 检查配置并检索、记录和维护我的知识库。"
